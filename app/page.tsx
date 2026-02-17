@@ -1,5 +1,4 @@
 import MoonScrollCanvas from "@/components/MoonScrollCanvas";
-import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import BackgroundMusic from "@/components/BackgroundMusic";
 
@@ -7,7 +6,6 @@ export default function Home() {
     return (
         <main className="min-h-screen bg-transparent relative">
             <BackgroundMusic />
-            <Navbar />
 
             {/* Primary Experience Wrapper */}
             <div className="relative">
