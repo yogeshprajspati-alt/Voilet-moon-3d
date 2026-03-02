@@ -115,7 +115,7 @@ export default function MoonScrollCanvas() {
                 {/* Loading Indicator */}
                 {!imagesLoaded && (
                     <div className="absolute inset-0 flex items-center justify-center text-violet-300 animate-pulse">
-                        Loading Prachi's Experience...
+                        Loading Prachi&apos;s Experience...
                     </div>
                 )}
 
